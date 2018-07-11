@@ -1,0 +1,18 @@
+body {
+    background-color: #C6ECD6;
+    font-size: 20px;
+    margin-top: 3%;
+}
+
+h1, h4 {
+    color: #8D3B9C;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-indent: 3%;
+    margin-right: 3%
+}
